@@ -2,11 +2,11 @@
 
 ### For MIPT students:
 
-* Computational math Jobs are located in the **Python** repository in the [comp_math](https://github.com/nalsur-veallam/Python/tree/main/comp_math) folder
-* Jobs for machine learning in physics are in the [**ML**](https://github.com/nalsur-veallam/ML) repository
-* Jobs for tensor networks are in the **Python** repository in the [TN](https://github.com/nalsur-veallam/Python/tree/main/TN) folder
-* Jobs for parallel computing are located in the **CPP** repository in the [parallel](https://github.com/nalsur-veallam/CPP/tree/main/parallel) folder
-* Jobs for the departmental course of Molecular Dynamics are located in the [**md_course**](https://github.com/nalsur-veallam/md_course) repository
+* Computational math codes are located in the **Python** repository in the [comp_math](https://github.com/nalsur-veallam/Python/tree/main/comp_math) folder
+* Codes for machine learning in physics are in the [**ML**](https://github.com/nalsur-veallam/ML) repository
+* Codes for tensor networks are in the **Python** repository in the [TN](https://github.com/nalsur-veallam/Python/tree/main/TN) folder
+* Codes for parallel computing are located in the **CPP** repository in the [parallel](https://github.com/nalsur-veallam/CPP/tree/main/parallel) folder
+* Codes for the departmental course of Molecular Dynamics are located in the [**md_course**](https://github.com/nalsur-veallam/md_course) repository
 
 ## :fire: My Stats :
 
