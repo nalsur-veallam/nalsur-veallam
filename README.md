@@ -2,6 +2,7 @@
 
 ### For MIPT students:
 
+* Codes for the departmental course of Solid State Physics are located in the [**SolidStatePhys**](https://github.com/nalsur-veallam/SolidStatePhys) repository
 * Codes for the departmental course of Computational Statistical Physics are located in the [**CompStatPhys**](https://github.com/nalsur-veallam/CompStatPhys) repository
 * Computational math codes are located in the **Python** repository in the [comp_math](https://github.com/nalsur-veallam/Python/tree/main/comp_math) folder
 * Codes for machine learning in physics are in the [**ML**](https://github.com/nalsur-veallam/ML) repository
